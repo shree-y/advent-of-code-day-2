@@ -9,7 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/program_alarm.py",
-            "args" : ["${workspaceFolder}/input1.txt"],
+            "args" : ["${workspaceFolder}/input.txt"],
             "console": "integratedTerminal"
         },
         {
